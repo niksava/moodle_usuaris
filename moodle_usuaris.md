@@ -37,7 +37,9 @@ Administradors, profesors, profesor sense permis de edicio i estudiant.
 
 8. Fes que Cognom_3_profe sigui professor de tots els cursos.
 
-
+![image](https://user-images.githubusercontent.com/114423315/208494543-d16e2b5e-7228-4fd5-9d47-56b309541b10.png)
+![image](https://user-images.githubusercontent.com/114423315/208494799-584fcb19-3dd7-454c-9ff4-041b72a4f9e4.png)
+![image](https://user-images.githubusercontent.com/114423315/208494911-917c8e2a-1dbb-4057-97d1-e5c650f91450.png)
 
 9. Afegeix a tots els alumnes a tots els cursos (els 5).
 
