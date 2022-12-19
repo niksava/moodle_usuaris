@@ -31,9 +31,13 @@ Administradors, profesors, profesor sense permis de edicio i estudiant.
 
 7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
 
-
+![image](https://user-images.githubusercontent.com/114423315/208493751-6871ef9c-73bb-41c8-968b-eada02fb7ef5.png)
+![image](https://user-images.githubusercontent.com/114423315/208493790-34d10071-7000-4774-b1a0-738c42577a8f.png)
+![image](https://user-images.githubusercontent.com/114423315/208493833-2bb65cae-390c-442b-af5e-6ba9e7c0b350.png)
 
 8. Fes que Cognom_3_profe sigui professor de tots els cursos.
+
+
 
 9. Afegeix a tots els alumnes a tots els cursos (els 5).
 
