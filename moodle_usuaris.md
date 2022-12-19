@@ -27,6 +27,8 @@ Administradors, profesors, profesor sense permis de edicio i estudiant.
 
 6. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
 
+
+
 7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
 
 8. Fes que Cognom_3_profe sigui professor de tots els cursos.
