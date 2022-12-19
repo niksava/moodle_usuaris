@@ -23,3 +23,9 @@ Administradors, profesors, profesor sense permis de edicio i estudiant.
 
 5. Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
 
+![image](https://user-images.githubusercontent.com/114423315/208474890-e81e4eb1-ffcc-4d0e-85fb-d4de025edc59.png)
+
+6. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
+
+
+
