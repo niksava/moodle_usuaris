@@ -46,12 +46,13 @@ Administradors, profesors, profesor sense permis de edicio i estudiant.
 10. Mostra l'apartat Participants de cada curs.
 
 11. Què són les Cohorts?
-
 12. Perquè serveixen?
+Les cohorts són grups a tota l'amplada del lloc o de tota una categoria de cursos. El propòsit de les cohorts és permetre a tots els membres de la cohort ser inscrits (matriculats) fàcilment en un curs. Alternativament, una cohort pot ser inscrita (matriculada) manualment en un curs.
 
 13. Què són els grups?
-
 14. Perquè serveixen?
+
+Els “grups” a Moodle es refereixen a “conjunts” diferents de participants que segueixen un “curs” comú. En aquest sentit, el concepte de "grup" a Moodle no és el d'un "equip" d'estudiants treballant en una tasca, sinó el d'un conjunt de participants o persones matriculades a un curs.
 
 15. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
 
