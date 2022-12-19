@@ -27,9 +27,11 @@ Administradors, profesors, profesor sense permis de edicio i estudiant.
 
 6. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
 
-
+![image](https://user-images.githubusercontent.com/114423315/208493290-43ef76c4-f0a8-47be-a038-7bf89896517e.png)
 
 7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
+
+
 
 8. Fes que Cognom_3_profe sigui professor de tots els cursos.
 
