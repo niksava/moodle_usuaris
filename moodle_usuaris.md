@@ -22,3 +22,4 @@ Administradors, profesors, profesor sense permis de edicio i estudiant.
 ![image](https://user-images.githubusercontent.com/114423315/207124641-543a3e4e-bd1e-4193-874e-c03771cdaf49.png)
 
 5. Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
+
